@@ -1,4 +1,10 @@
-# 📊 Retail BI POC - Analyse de Données Retail
+# 📊 Retail BI### 📊 **Étape 2 : Accéder au dashboard**
+
+**� [TÉLÉCHARGER LE DASHBOARD (.pbix)](./powerbi/retail_dashboard.pbix)**
+
+**Prérequis :** [Power BI Desktop](https://aka.ms/pbidesktop) (gratuit)
+
+**Instructions :** Téléchargez le fichier, installez Power BI Desktop, double-clic sur le .pbixyse de Données Retail
 
 > 🎯 **Démonstration pratique** : Pipeline **CSV → Python → Excel → Power BI** pour l'analyse retail
 
@@ -6,16 +12,23 @@
 [![Python](https://img.shields.io/badge/Python-ETL-blue?style=for-the-badge&logo=python)](./scripts/export_retail.py)
 [![Download PBIX](https://img.shields.io/badge/📥_Télécharger-retail__dashboard.pbix-red?style=for-the-badge)](./powerbi/retail_dashboard.pbix)
 
-## 🚀 **DÉMONSTRATION RAPIDE (2 minutes)**
+## 🚀 **DÉMONSTRATION RAPIDE**
 
-### 📥 **Étape 1 : Télécharger Power BI Desktop**
-- **Lien direct** : [aka.ms/pbidesktop](https://aka.ms/pbidesktop) 
-- **Installation** : 5 minutes, gratuit
+**🔴 [TÉLÉCHARGER LE DASHBOARD](./powerbi/retail_dashboard.pbix)**
 
-### 📊 **Étape 2 : Ouvrir le dashboard**
-1. **🔴 [CLIQUER ICI pour télécharger le dashboard](./powerbi/retail_dashboard.pbix)** 
-2. **Double-clic** sur le fichier téléchargé
-3. **Explorer** les visualisations interactives
+**Prérequis :** [Power BI Desktop](https://aka.ms/pbidesktop) (gratuit)
+
+### 📊 **Étape 2 : Accéder au dashboard**
+
+#### 🌐 **Option A : Démonstration en ligne (Recommandé)**
+1. **� [ACCÈS DIRECT WEB au dashboard](https://app.powerbi.com/view?r=VOTRE_LIEN_DE_PARTAGE)** 
+2. **Aucune installation requise** - Fonctionne dans votre navigateur
+3. **Exploration immédiate** des visualisations interactives
+
+#### 📥 **Option B : Fichier local (Power BI Desktop requis)**
+1. **🔴 [Télécharger le fichier .pbix](./powerbi/retail_dashboard.pbix)** 
+2. **Installer** [Power BI Desktop](https://aka.ms/pbidesktop) (gratuit)
+3. **Double-clic** sur le fichier téléchargé
 
 ### 🎯 **Étape 3 : Ce que vous verrez**
 - **Dashboard complet** avec analyses retail
