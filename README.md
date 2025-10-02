@@ -1,26 +1,125 @@
-# 📊 Retail BI POC - Business Intelligence Complete
+# 📊 Retail BI POC - Analyse de Données Retail
 
-> 🎯 **Démonstration complète** des compétences **SQL + Python + Excel + Power BI** pour l'analyse de données retail
+> 🎯 **Démonstration pratique** : Pipeline **CSV → Python → Excel → Power BI** pour l'analyse retail
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi)](./powerbi/retail_dashboard.pbix)
-[![Python](https://img.shields.io/badge/Python-ETL%20Pipeline-blue?style=for-the-badge&logo=python)](./scripts/export_retail.py)
+[![Python](https://img.shields.io/badge/Python-ETL-blue?style=for-the-badge&logo=python)](./scripts/export_retail.py)
 [![Download PBIX](https://img.shields.io/badge/📥_Télécharger-retail__dashboard.pbix-red?style=for-the-badge)](./powerbi/retail_dashboard.pbix)
 
 ## 🚀 **DÉMONSTRATION RAPIDE (2 minutes)**
 
 ### 📥 **Étape 1 : Télécharger Power BI Desktop**
 - **Lien direct** : [aka.ms/pbidesktop](https://aka.ms/pbidesktop) 
-- **Installation** : 5 minutes, gratuit, aucune inscription requise
+- **Installation** : 5 minutes, gratuit
 
 ### 📊 **Étape 2 : Ouvrir le dashboard**
 1. **🔴 [CLIQUER ICI pour télécharger le dashboard](./powerbi/retail_dashboard.pbix)** 
-2. **Double-clic** sur `retail_dashboard.pbix`
+2. **Double-clic** sur le fichier téléchargé
 3. **Explorer** les visualisations interactives
 
 ### 🎯 **Étape 3 : Ce que vous verrez**
-- **KPIs créatifs** : Fidélité client (4,2%), Effet Weekend (28,6%), Power Buyers (15,8%)
-- **Analyses retail** : 2,8M€ CA sur 311 transactions, 5 enseignes
-- **Interactivité** : Filtres par enseigne, période, région
+- **Dashboard complet** avec analyses retail
+- **Données réelles** : 311 transactions sur 5 enseignes
+- **Interactivité** : Filtres par enseigne, période, ville
+
+## 📈 **Analyses Incluses**
+
+### 📊 **Métriques Principales**
+- **💰 Chiffre d'Affaires** : Suivi global et par enseigne
+- **🛒 Nombre de Ventes** : 311 transactions analysées
+- **👥 Clients** : Analyse de la clientèle
+- **🏪 Performance** : Comparaison des 5 enseignes
+- **📅 Évolution** : Tendances mensuelles
+
+### 🎯 **Insights Business**
+- **Performance par enseigne** : Identification des leaders
+- **Saisonnalité** : Pics et creux de ventes
+- **Répartition géographique** : Analyse par ville
+- **Paniers moyens** : Optimisation pricing
+
+## 🛠️ **Architecture Simple et Efficace**
+
+```
+📄 CSV Source → 🐍 Python ETL → 📊 Excel → 📈 Power BI Dashboard
+```
+
+### 🔧 **Stack Technique**
+- **Source** : Fichier CSV avec 311 transactions retail
+- **Traitement** : Python avec pandas + openpyxl
+- **Export** : Excel formaté (onglets multiples, style français)
+- **Visualisation** : Power BI Desktop avec dashboard interactif
+
+## 📁 **Structure du Projet**
+
+```
+retail-bi-poc/
+├── 📊 powerbi/
+│   └── 🔴 retail_dashboard.pbix    # DASHBOARD PRINCIPAL
+├── 📈 outputs/
+│   └── reporting_retail.xlsx       # Rapport Excel généré
+├── 🐍 scripts/
+│   └── export_retail.py            # Script de traitement
+├── 📄 data/
+│   └── retail_demo.csv             # Dataset source (311 lignes)
+└── 📋 README.md                    # Documentation
+```
+
+## 🔄 **Régénération des Données**
+
+Pour actualiser ou modifier les analyses :
+
+```bash
+# 1. Cloner le projet
+git clone https://github.com/FlorentCramette/retail-bi-poc.git
+cd retail-bi-poc
+
+# 2. Installer les dépendances
+pip install -r requirements.txt
+
+# 3. Exécuter le pipeline
+python scripts/export_retail.py
+
+# 4. Ouvrir Power BI et actualiser
+# Le dashboard se connecte automatiquement au nouveau fichier Excel
+```
+
+## 💡 **Valeur Démontrée**
+
+### ✅ **Compétences Techniques**
+- **Python** : Manipulation de données avec pandas
+- **Excel** : Génération automatisée de rapports formatés
+- **Power BI** : Création de dashboards interactifs
+- **Pipeline** : Automatisation end-to-end
+
+### ✅ **Approche Business**
+- **Données réalistes** : Dataset enrichi avec variations saisonnières
+- **Analyses pertinentes** : KPIs retail standards
+- **Présentation pro** : Dashboard prêt pour management
+- **Reproductibilité** : Process documenté et automatisé
+
+## 🎯 **Cas d'Usage**
+
+### 🏢 **Management**
+- Vue d'ensemble des performances
+- Comparaison entre enseignes
+- Suivi des tendances
+
+### 📊 **Analyse**
+- Détection des patterns saisonniers
+- Identification des opportunités
+- Support à la prise de décision
+
+## 📞 **À Propos**
+
+**Objectif** : Démontrer une maîtrise pratique des outils BI modernes avec un cas d'usage concret.
+
+**Technologies** : Python, Excel, Power BI Desktop
+
+**Données** : 311 transactions retail réparties sur 5 enseignes avec variations géographiques et saisonnières.
+
+---
+
+📧 **Contactez-moi pour une démonstration live du dashboard**
 
 ---
 
