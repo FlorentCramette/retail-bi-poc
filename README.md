@@ -1,4 +1,4 @@
-# 📊 Retail BI### 📊 **Étape 2 : Accéder au dashboard**
+# 📊 Retail BI### 📊 **Accéder au dashboard**
 
 **� [TÉLÉCHARGER LE DASHBOARD (.pbix)](./powerbi/retail_dashboard.pbix)**
 
