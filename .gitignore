@@ -1,0 +1,28 @@
+# Fichiers sensibles
+.env
+*.log
+.DS_Store
+
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Outputs temporaires
+outputs/*.xlsx
+outputs/*.csv
+!outputs/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+*.tmp
+
+# Credentials et clés
+*.key
+*.pem
+config/secrets.json

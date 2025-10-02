@@ -1,0 +1,51 @@
+id_vente,id_client,id_enseigne,date_vente,nom_client,email,ville_client,age,nom_enseigne,ville_enseigne,region,produit,quantite,prix_unitaire,montant_total
+1,1,1,2023-01-05,Jean Dupont,jean.dupont@email.com,Paris,35,TechWorld Paris,Paris,Île-de-France,Smartphone Galaxy S23,1,899.99,899.99
+2,2,2,2023-01-08,Sophie Martin,sophie.martin@email.com,Lyon,28,TechWorld Lyon,Lyon,Auvergne-Rhône-Alpes,MacBook Air M2,1,1199.99,1199.99
+3,3,3,2023-01-12,Pierre Bernard,pierre.bernard@email.com,Marseille,42,TechWorld Marseille,Marseille,Provence-Alpes-Côte d'Azur,iPad Pro 11",1,799.99,799.99
+4,4,4,2023-01-15,Marie Durand,marie.durand@email.com,Toulouse,31,TechWorld Toulouse,Toulouse,Occitanie,AirPods Pro,2,249.99,499.98
+5,5,5,2023-01-18,Paul Petit,paul.petit@email.com,Bordeaux,45,TechWorld Bordeaux,Bordeaux,Nouvelle-Aquitaine,Dell XPS 13,1,1099.99,1099.99
+6,6,1,2023-01-22,Anne Moreau,anne.moreau@email.com,Paris,29,TechWorld Paris,Paris,Île-de-France,Apple Watch Series 8,1,399.99,399.99
+7,7,2,2023-01-25,Luc Simon,luc.simon@email.com,Lyon,38,TechWorld Lyon,Lyon,Auvergne-Rhône-Alpes,Sony WH-1000XM4,1,279.99,279.99
+8,8,3,2023-01-28,Julie Michel,julie.michel@email.com,Marseille,33,TechWorld Marseille,Marseille,Provence-Alpes-Côte d'Azur,Nintendo Switch OLED,1,349.99,349.99
+9,9,4,2023-02-02,Marc Leroy,marc.leroy@email.com,Toulouse,27,TechWorld Toulouse,Toulouse,Occitanie,iPhone 14 Pro,1,1099.99,1099.99
+10,10,5,2023-02-06,Claire Roux,claire.roux@email.com,Bordeaux,36,TechWorld Bordeaux,Bordeaux,Nouvelle-Aquitaine,Surface Pro 9,1,999.99,999.99
+11,11,1,2023-02-10,Thomas David,thomas.david@email.com,Paris,41,TechWorld Paris,Paris,Île-de-France,Samsung 4K Monitor,1,449.99,449.99
+12,12,2,2023-02-14,Isabelle Bertrand,isabelle.bertrand@email.com,Lyon,30,TechWorld Lyon,Lyon,Auvergne-Rhône-Alpes,Logitech MX Master 3,2,89.99,179.98
+13,13,3,2023-02-18,François Robert,francois.robert@email.com,Marseille,39,TechWorld Marseille,Marseille,Provence-Alpes-Côte d'Azur,Bose QuietComfort 45,1,329.99,329.99
+14,14,4,2023-02-22,Monique Richard,monique.richard@email.com,Toulouse,44,TechWorld Toulouse,Toulouse,Occitanie,Apple Magic Keyboard,1,149.99,149.99
+15,15,5,2023-02-26,Antoine Garnier,antoine.garnier@email.com,Bordeaux,26,TechWorld Bordeaux,Bordeaux,Nouvelle-Aquitaine,Canon EOS R6,1,2499.99,2499.99
+16,16,1,2023-03-03,Sylvie Faure,sylvie.faure@email.com,Paris,37,TechWorld Paris,Paris,Île-de-France,Dyson V15 Detect,1,649.99,649.99
+17,17,2,2023-03-07,Nicolas Andre,nicolas.andre@email.com,Lyon,32,TechWorld Lyon,Lyon,Auvergne-Rhône-Alpes,PlayStation 5,1,499.99,499.99
+18,18,3,2023-03-11,Catherine Mercier,catherine.mercier@email.com,Marseille,40,TechWorld Marseille,Marseille,Provence-Alpes-Côte d'Azur,Xbox Series X,1,499.99,499.99
+19,19,4,2023-03-15,Philippe Blanc,philippe.blanc@email.com,Toulouse,34,TechWorld Toulouse,Toulouse,Occitanie,Apple TV 4K,1,179.99,179.99
+20,20,5,2023-03-19,Nathalie Guerin,nathalie.guerin@email.com,Bordeaux,43,TechWorld Bordeaux,Bordeaux,Nouvelle-Aquitaine,Tesla Model 3 Accessories,3,99.99,299.97
+21,21,1,2023-03-23,Olivier Boyer,olivier.boyer@email.com,Paris,25,TechWorld Paris,Paris,Île-de-France,Garmin Fenix 7,1,699.99,699.99
+22,22,2,2023-03-27,Valérie Vincent,valerie.vincent@email.com,Lyon,46,TechWorld Lyon,Lyon,Auvergne-Rhône-Alpes,DJI Mini 3 Pro,1,759.99,759.99
+23,23,3,2023-03-31,Stéphane Barbier,stephane.barbier@email.com,Marseille,48,TechWorld Marseille,Marseille,Provence-Alpes-Côte d'Azur,Fitbit Charge 5,2,149.99,299.98
+24,24,4,2023-04-04,Céline Rousseau,celine.rousseau@email.com,Toulouse,22,TechWorld Toulouse,Toulouse,Occitanie,MacBook Pro 14",1,1999.99,1999.99
+25,25,5,2023-04-08,Jérôme Henry,jerome.henry@email.com,Bordeaux,50,TechWorld Bordeaux,Bordeaux,Nouvelle-Aquitaine,HP Spectre x360,1,1149.99,1149.99
+26,26,1,2023-04-12,Patricia Morel,patricia.morel@email.com,Paris,24,TechWorld Paris,Paris,Île-de-France,LG OLED55C2,1,1299.99,1299.99
+27,27,2,2023-04-16,Bruno Nicolas,bruno.nicolas@email.com,Lyon,47,TechWorld Lyon,Lyon,Auvergne-Rhône-Alpes,Sonos Arc,1,799.99,799.99
+28,28,3,2023-04-20,Chantal Poirier,chantal.poirier@email.com,Marseille,21,TechWorld Marseille,Marseille,Provence-Alpes-Côte d'Azur,Ring Video Doorbell,1,199.99,199.99
+29,29,4,2023-04-24,Didier Marty,didier.marty@email.com,Toulouse,49,TechWorld Toulouse,Toulouse,Occitanie,Nest Thermostat,2,129.99,259.98
+30,30,5,2023-04-28,Brigitte Muller,brigitte.muller@email.com,Bordeaux,23,TechWorld Bordeaux,Bordeaux,Nouvelle-Aquitaine,Echo Dot 5th Gen,3,49.99,149.97
+31,31,1,2023-05-02,Alain Lefevre,alain.lefevre@email.com,Paris,52,TechWorld Paris,Paris,Île-de-France,Galaxy Tab S8,1,699.99,699.99
+32,32,2,2023-05-06,Martine Fontaine,martine.fontaine@email.com,Lyon,19,TechWorld Lyon,Lyon,Auvergne-Rhône-Alpes,Microsoft Surface Studio,1,3499.99,3499.99
+33,33,3,2023-05-10,René Chevalier,rene.chevalier@email.com,Marseille,54,TechWorld Marseille,Marseille,Provence-Alpes-Côte d'Azur,ASUS ROG Zephyrus,1,1799.99,1799.99
+34,34,4,2023-05-14,Françoise Robin,francoise.robin@email.com,Toulouse,20,TechWorld Toulouse,Toulouse,Occitanie,Razer DeathAdder V3,2,69.99,139.98
+35,35,5,2023-05-18,Daniel Masson,daniel.masson@email.com,Bordeaux,55,TechWorld Bordeaux,Bordeaux,Nouvelle-Aquitaine,SteelSeries Arctis 7P,1,149.99,149.99
+36,36,1,2023-05-22,Christine Sanchez,christine.sanchez@email.com,Paris,18,TechWorld Paris,Paris,Île-de-France,Corsair K95 RGB,1,199.99,199.99
+37,37,2,2023-05-26,Michel Girard,michel.girard@email.com,Lyon,56,TechWorld Lyon,Lyon,Auvergne-Rhône-Alpes,NVIDIA RTX 4090,1,1599.99,1599.99
+38,38,3,2023-05-30,Sandrine Fournier,sandrine.fournier@email.com,Marseille,53,TechWorld Marseille,Marseille,Provence-Alpes-Côte d'Azur,AMD Ryzen 9 7950X,1,699.99,699.99
+39,39,4,2023-06-03,Christophe Bonnet,christophe.bonnet@email.com,Toulouse,51,TechWorld Toulouse,Toulouse,Occitanie,Samsung Odyssey G9,1,1399.99,1399.99
+40,40,5,2023-06-07,Véronique Dupuis,veronique.dupuis@email.com,Bordeaux,57,TechWorld Bordeaux,Bordeaux,Nouvelle-Aquitaine,Alienware Aurora R13,1,2999.99,2999.99
+41,41,1,2023-06-11,Hervé Lambert,herve.lambert@email.com,Paris,58,TechWorld Paris,Paris,Île-de-France,Meta Quest 2,1,399.99,399.99
+42,42,2,2023-06-15,Corinne Brun,corinne.brun@email.com,Lyon,59,TechWorld Lyon,Lyon,Auvergne-Rhône-Alpes,HTC Vive Pro 2,1,799.99,799.99
+43,43,3,2023-06-19,Thierry Dubois,thierry.dubois@email.com,Marseille,60,TechWorld Marseille,Marseille,Provence-Alpes-Côte d'Azur,Apple Studio Display,1,1599.99,1599.99
+44,44,4,2023-06-23,Dominique Colin,dominique.colin@email.com,Toulouse,61,TechWorld Toulouse,Toulouse,Occitanie,Dell UltraSharp U2723QE,1,549.99,549.99
+45,45,5,2023-06-27,Yves Caron,yves.caron@email.com,Bordeaux,62,TechWorld Bordeaux,Bordeaux,Nouvelle-Aquitaine,Wacom Cintiq 22,1,899.99,899.99
+46,46,1,2023-07-01,Jacqueline Picard,jacqueline.picard@email.com,Paris,63,TechWorld Paris,Paris,Île-de-France,GoPro Hero 11,1,499.99,499.99
+47,47,2,2023-07-05,Gérard Roger,gerard.roger@email.com,Lyon,64,TechWorld Lyon,Lyon,Auvergne-Rhône-Alpes,DJI Air 2S,1,999.99,999.99
+48,48,3,2023-07-09,Denise Leroux,denise.leroux@email.com,Marseille,65,TechWorld Marseille,Marseille,Provence-Alpes-Côte d'Azur,Sony A7 IV,1,2499.99,2499.99
+49,49,4,2023-07-13,Christian Roy,christian.roy@email.com,Toulouse,66,TechWorld Toulouse,Toulouse,Occitanie,Fujifilm X-T5,1,1699.99,1699.99
+50,1,5,2023-07-17,Jean Dupont,jean.dupont@email.com,Paris,35,TechWorld Bordeaux,Bordeaux,Nouvelle-Aquitaine,Rode PodMic,2,199.99,399.98
